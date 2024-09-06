@@ -1,3 +1,5 @@
+**DASHBOARD **: https://app.powerbi.com/groups/me/reports/9d93160d-889b-45d1-96ce-f1c3d2dddf96/465ccbef6670711e14a0?experience=power-bi
+
 # Marketing-Food-Beverage-Industry-Insights
 
 **PROBLEM STATEMENT :**
